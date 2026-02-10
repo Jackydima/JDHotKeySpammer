@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="HotKey/HotKey.vcxproj" />
+  <Project Path="HotKey/HotKey.vcxproj" Id="a4d0d9ad-ed11-4758-afe5-04461299c920" />
 </Solution>
